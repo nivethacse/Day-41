@@ -1,2 +1,2 @@
-# hallbookingAPI
-This is a simple NodeJs API for Hall Booking
+# HallbookingAPI
+NodeJs API for Hall Booking
